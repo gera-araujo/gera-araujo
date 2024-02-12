@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Geraldine Araujo</h1>
+<h2 align="left">Hi 👋, I'm Geraldine Araujo</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
